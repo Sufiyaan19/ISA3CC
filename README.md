@@ -1,2 +1,0 @@
-# ISA3CC
-Game
